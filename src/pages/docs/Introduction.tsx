@@ -39,7 +39,12 @@ const Introduction = () => {
                 Whether you're a seasoned Vim user or just getting started, FKvim offers an intuitive 
                 setup that combines the power of Neovim with modern IDE features, all while maintaining 
                 the speed and efficiency you expect from a terminal-based editor.
-              </p>
+             </p>
+
+             <p className="text-muted-foreground leading-relaxed">
+                Fkvim was started as a personal project by Mayank Kumar Jha and Now its grown to one of the 
+                popular Config for Neovim with Built-in AI and other features 
+             </p>
             </section>
 
             <section id="key-features" className="space-y-4">

@@ -33,25 +33,36 @@ const Interactive = () => {
         <footer className="border-t border-terminal-border py-8">
           <div className="container mx-auto px-4 text-center text-sm text-muted-foreground">
             <p>
-              Developed by{" "}
-              <a
-                href="https://github.com/TheFlashCodes"
+              Developed by {" "} 
+     <a
+                href="https://mayankjha.nfks.co.in"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
               >
-                Mayank Kumar Jha
+                Mayank Kumar Jha 
+              </a>{ " "}
+                from 
+
+              {" "}
+              <a
+                href="https://nfks.co.in"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="text-primary hover:underline"
+              >
+                nfks
               </a>
             </p>
             <p className="mt-2">
               Visit{" "}
               <a
-                href="https://fkvim.netlify.app"
+                href="https://fkvim.nfks.co.in/docs"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
               >
-                fkvim.netlify.app
+                fkvim.nfks.co.in
               </a>{" "}
               for documentation
             </p>

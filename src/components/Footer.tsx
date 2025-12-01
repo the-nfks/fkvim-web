@@ -64,12 +64,12 @@ const Footer = () => {
             <p className="flex items-center gap-2 flex-wrap justify-center">
               Built with <Heart className="h-4 w-4 text-red-500" /> by{" "}
               <a
-                href="https://github.com/TheFlashCodes"
+                href="https://nfks.co.in"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:text-secondary transition-colors"
               >
-                FlashCodes
+                nfks
               </a>
             </p>
           </div>

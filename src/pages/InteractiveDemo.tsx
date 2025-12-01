@@ -35,12 +35,12 @@ const InteractiveDemo = () => {
             <p>
               Developed by{" "}
               <a
-                href="https://github.com/TheFlashCodes"
+                href="https://nfks.co.in"
                 target="_blank"
                 rel="noopener noreferrer"
                 className="text-primary hover:underline"
               >
-                Mayank Kumar Jha
+                nfks
               </a>
             </p>
             <p className="mt-2">

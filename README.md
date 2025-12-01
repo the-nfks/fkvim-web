@@ -115,4 +115,4 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 
 For any questions or suggestions, please open an issue on GitHub or reach out to the maintainer:
 
-*   **Mayank Jha** - [GitHub Profile](https://github.com/flashcodes-themayankjha)
+*   **Mayank Jha** - [nfks.co.in](https://nfks.co.in)
