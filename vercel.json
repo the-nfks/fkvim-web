@@ -1,3 +1,4 @@
+
 {
   "headers": [
     {
@@ -9,7 +10,7 @@
         },
         {
           "key": "Cache-Control",
-          "value": "max-age=0, s-maxage=300, stale-while-revalidate=600"
+          "value": "no-store"
         }
       ]
     },
@@ -19,13 +20,15 @@
         {
           "key": "Content-Type",
           "value": "text/plain"
+        },
+        {
+          "key": "Cache-Control",
+          "value": "no-store"
         }
       ]
     }
   ],
   "rewrites": [
-    { "source": "/sitemap.xml", "destination": "/public/sitemap.xml" },
-    { "source": "/robots.txt", "destination": "/public/robots.txt" },
     { "source": "/(.*)", "destination": "/index.html" }
   ]
 }
